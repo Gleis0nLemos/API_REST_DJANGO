@@ -3,13 +3,13 @@
 
 > Status: Em aprendizagem
 
-## Aula 01: 
+## Aula 02: 
 
-#### Entendemos o que é uma API;
+#### Criamos o modelo de aluno e de curso;
 
-#### Realizamos uma requisição GET retornando um Json;
+#### Configuramos o Django Admin para criar, editar, listar e deletar alunos, alunas ou cursos;
 
-#### Instalamos o Django Rest Framework.
+#### Criamos a classe responsável para serializar os dados.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
