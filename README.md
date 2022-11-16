@@ -3,13 +3,15 @@
 
 > Status: Em aprendizagem
 
-## Aula 03: 
+## Aula 04: 
 
-#### Criamos as classes AlunosViewSet e CursosViewSet para usufruir das principais ;
+#### Vimos que existem dois verbos do HTTP para atualizar um recurso, o PUT e o PATCH;
 
-#### Realizamos uma requisição GET retornando um Json;
+#### Deletamos um recurso executando uma solicitação DELETE;
 
-#### Instalamos o Django Rest Framework.
+#### Criamos o modelo de matrícula, vinculando um aluno em um curso;
+
+#### Disponibilizamos os recursos de matrícula para nossa API.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
