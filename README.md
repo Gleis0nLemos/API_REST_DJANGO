@@ -3,13 +3,13 @@
 
 > Status: Em aprendizagem
 
-## Aula 02: 
+## Aula 03: 
 
-#### Criamos o modelo de aluno e de curso;
+#### Criamos as classes AlunosViewSet e CursosViewSet para usufruir das principais ;
 
-#### Configuramos o Django Admin para criar, editar, listar e deletar alunos, alunas ou cursos;
+#### Realizamos uma requisição GET retornando um Json;
 
-#### Criamos a classe responsável para serializar os dados.
+#### Instalamos o Django Rest Framework.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
