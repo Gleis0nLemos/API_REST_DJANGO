@@ -3,15 +3,13 @@
 
 > Status: Em aprendizagem
 
-## Aula 04: 
+## Aula 05: 
 
-#### Vimos que existem dois verbos do HTTP para atualizar um recurso, o PUT e o PATCH;
+#### ListApiView;
 
-#### Deletamos um recurso executando uma solicitação DELETE;
+#### MAtrículas de cursos;
 
-#### Criamos o modelo de matrícula, vinculando um aluno em um curso;
-
-#### Disponibilizamos os recursos de matrícula para nossa API.
+#### Autenticação.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
